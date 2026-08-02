@@ -57,11 +57,11 @@ Methodological choices made in the Power BI dashboard:
 
 > **Screenshots**
 >
-> `![Country Overview](screenshots/country_overview.png)`
+> ![Country Overview](screenshots/country_overview.png)
 >
-> `![State Overview](screenshots/state_overview.png)`
+> ![State Overview](screenshots/state_overview.png)
 >
-> `![Town Detail](screenshots/town_detail.png)`
+> ![Town Detail](screenshots/town_detail.png)
 
 ## 5. Key Findings
 
@@ -73,7 +73,8 @@ Methodological choices made in the Power BI dashboard:
 ## 6. Repository Structure
 
 ```
-├── data/                      # raw and processed data (SITUAS + ISTAT extractions, merged dataset)
+├── data/                      # raw and clean data (SITUAS + ISTAT extractions, merged dataset)
+├── screenshots/               # screenshots of power BI dashboard
 ├── main_notebook.ipynb        # full pipeline: extraction, cleaning, EDA, clustering
 ├── dashboard.pbix             # Power BI dashboard (requires Power BI Desktop to open)
 ├── Capstone_Project.md.docx   # original assignment brief
@@ -87,4 +88,4 @@ Methodological choices made in the Power BI dashboard:
 
 ## 8. Author
 
-Ismael — [GitHub](https://github.com/Aaronstriker) · Boolean Master in Data Analytics, 2026
+Ismael Pumpo — [GitHub](https://github.com/Aaronstriker) · Boolean Master in Data Analytics, 2026
