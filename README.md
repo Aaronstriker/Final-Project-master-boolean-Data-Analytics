@@ -73,11 +73,12 @@ Methodological choices made in the Power BI dashboard:
 ## 6. Repository Structure
 
 ```
-├── data/                      # raw and clean data (SITUAS + ISTAT extractions, merged dataset)
-├── screenshots/               # screenshots of power BI dashboard
-├── main_notebook.ipynb        # full pipeline: extraction, cleaning, EDA, clustering
-├── dashboard.pbix             # Power BI dashboard (requires Power BI Desktop to open)
-├── Capstone_Project.md.docx   # original assignment brief
+├── data/                                # raw and clean data (SITUAS + ISTAT extractions, merged dataset)
+├── screenshots/                         # screenshots of power BI dashboard
+├── main_notebook.ipynb                  # full pipeline: extraction, cleaning, EDA, clustering
+├── dashboard.pbix                     # Power BI dashboard (requires Power BI Desktop to open)
+├── Capstone_Project.md.docx                 # original assignment brief
+├── Italy Road Accident Risk Analysis.pptx   # powerpoint presentation
 └── README.md
 ```
 
